@@ -1,3 +1,5 @@
-print('hello world!!!');
-print('test vesiya');
-print('hello-advanced');
+print('hello world!!!;');
+print('test vesiya;');
+print('hello-advanced;');
+
+
